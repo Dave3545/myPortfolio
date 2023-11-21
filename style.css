@@ -292,6 +292,7 @@ body {
 
 @media only screen and (max-width: 800px) {
     [class*="col-"] {
-        width: 100%;
+        width: 828px;
+        height: 1792px;
     }
 }
